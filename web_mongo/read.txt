@@ -1,0 +1,5 @@
+server will run on express
+dotenv will give urls..serevrname,username,password
+helmet help us to stay secure
+morgan..request..
+nodemon..not restart

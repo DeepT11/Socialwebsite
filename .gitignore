@@ -1,0 +1,4 @@
+/frontend/.env
+/web_mongo/.env
+/frontend/node_modules
+/web_mongo/node_modules

@@ -1,0 +1,5 @@
+npm init
+yarn add express mongoose dotenv helmet morgan nodemon
+yarn add react-scripts//for yarn start
+yarn start
+yarn add bcyrpt
